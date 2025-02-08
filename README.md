@@ -1,4 +1,4 @@
-#Shell script to automate:
+# Shell script to automate:
 
 - Create users, groups and directories
 - Root should be owner of all directories
